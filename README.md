@@ -11,7 +11,7 @@
    - Real-time **OPEN / CLOSED** status monitor for **B-Mart**, **Central Library**, **Main & Night Canteen**, **Sports Complex & Gym**, **Student Mess**, and **Health Center**.
    - Live Ongoing Class radar with one-click **"✋ Mark Present"** attendance tracking.
 2. **Official Timetable & Faculty Directory:**
-   - Built from official Autumn 2026-27 PDFs for **B.Tech DSAI (Room 135)**, **CSE (Room 133)**, and **ECE (Room 134)**.
+   - Built from official Autumn 2026-27 PDFs for **B.Tech DSAI (Room 135)**, **CSE (Room 138)**, and **ECE (Room 122)**.
    - Faculty mapping including Dr. Ramakrishna, Dr. Mithilesh, Prof. Srinivasa, Dr. Lakhindar, Dr. Shubhangi, Dr. Aruna, Dr. Amit, Dr. Darash, and Dr. Khilesh Kumar.
 3. **YPT Study Tracker & Pomodoro Focus Hub:**
    - Yeolpumta-style subject-wise play/pause focus timers with daily streak counters and live IIIT-NR study room leaderboards.
